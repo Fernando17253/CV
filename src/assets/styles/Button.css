@@ -1,0 +1,9 @@
+.uselessButton{
+    font-family: "Roboto Light", serif;
+    background-color: rgb(255, 2, 2);
+    width: 80%;
+    overflow: hidden;
+    text-align: center;
+    color: whitesmoke;
+    border-radius: 8px;
+}
